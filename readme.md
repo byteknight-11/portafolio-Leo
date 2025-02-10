@@ -5,24 +5,25 @@ Este portafolio ha sido desarrollado completamente utilizando **HTML** y **CSS**
 ## 📌 Contenido
 A continuación, se presentan las secciones del portafolio en el orden en que fueron diseñadas:
 
-### 🧑‍💼 1. Sección de Presentación
-📷 Imagen: `image1.png`
+### 🧑‍💼 1. Sección de Home
+
 - 🙋‍♂️ Introducción personal.
-- 📝 Breve descripción sobre mi experiencia y habilidades principales.
+- 📝 Breve descripción sobre lo que quiero especializarme.
 
-### 💼 2. Sección de Proyectos
-📷 Imagen: `image2.png`
-- 🖼️ Galería de trabajos realizados.
-- 🔗 Descripción breve de cada proyecto con enlaces a los repositorios o demostraciones.
+### 💼 2. Sección Sobre Mi
 
-### 🛠️ 3. Sección de Habilidades
-📷 Imagen: `image3.png`
-- 🏆 Listado de tecnologías dominadas.
-- 📊 Representación visual del nivel de conocimiento en cada una.
+- 🔗 Descripción breve de lo que me define y me interesa.
 
-### 📞 4. Sección de Contacto
-📷 Imagen: `image4.png`
-- ✉️ Formulario para contacto directo.
+### 🛠️ 3. Sección de skills
+
+- 🏆 Habilidades que domino.
+
+### 💼 5. Sección de Experiencia
+
+- 💼 Mi experiencia Laboral 
+
+### 📞 5. Sección de Contacto
+
 - 🔗 Enlaces a redes sociales y correo electrónico.
 
 
@@ -34,6 +35,6 @@ A continuación, se presentan las secciones del portafolio en el orden en que fu
 Puedes acceder al portafolio directamente en tu navegador abriendo el archivo `index.html`.
 
 ## 👨‍💻 Autor
-📌 [Tu Nombre] - Desarrollador Web
+📌 Leonardo Eljadue Silva - Desarrollador Web y analitico de datos en desarrollo.
 
 **Pendiente hacerlo responsive**
